@@ -123,6 +123,10 @@ Configuration files and settings can be adjusted within each Python module. Key 
 
 Detailed documentation including system architecture, implementation details, and usage guides can be found in the `docs/` directory.
 
+## Demo
+
+We have a demo video uploaded on YouTube: [https://www.youtube.com/watch?v=THcwg60FWyQ](https://www.youtube.com/watch?v=THcwg60FWyQ)
+
 ## Author
 
 Tran Anh Toan
